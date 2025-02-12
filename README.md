@@ -4,6 +4,14 @@
 
 This project focuses on cleaning, transforming, and analyzing an employee sales dataset. The raw data contained missing values, incorrect data types, and required feature engineering to extract meaningful insights.
 
+## Files Description  
+- **employee_data_with_issues.csv**: Raw employee dataset containing missing values and incorrect data types.  
+- **sales_data_with_issues.csv**: Raw sales dataset with similar issues.  
+- **cleaned_employee_data.csv**: Processed employee dataset after handling missing values and data cleaning.  
+- **cleaned_sales_data.csv**: Cleaned sales dataset.  
+- **employee_sales.csv**: Final dataset combining employee and sales data for analysis.  
+- **Jupyter Notebook **: Contains the full data cleaning, transformation, and analysis steps.
+
 ## 🔧 Steps Taken
 
 ### 1️⃣ Data Collection
