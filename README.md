@@ -10,7 +10,7 @@ This project focuses on cleaning, transforming, and analyzing an employee sales 
 - **cleaned_employee_data.csv**: Processed employee dataset after handling missing values and data cleaning.  
 - **cleaned_sales_data.csv**: Cleaned sales dataset.  
 - **employee_sales.csv**: Final dataset combining employee and sales data for analysis.  
-- **Jupyter Notebook **: Contains the full data cleaning, transformation, and analysis steps.
+- **Jupyter Notebook**: Contains the full data cleaning, transformation, and analysis steps.
 
 ## 🔧 Steps Taken
 
