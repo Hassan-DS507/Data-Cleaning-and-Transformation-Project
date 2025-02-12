@@ -1,0 +1,11 @@
+Employee_ID,Name,Date_of_Birth,Gender,Job,Salary,Date_of_Joining,Performance_Rating
+101,Ali,1990-05-12,M,Engineer,50000.0,2015-08-01,3.0
+102,Sara,1988-09-23,F,Manager,70000.0,2012-03-15,5.0
+103,John,NaN,M,Technician,-45000.0,2018-11-23,2.0
+104,Mina,1995-07-19,F,NaN,30000.0,2019-06-30,4.0
+105,,1993-06-30,M,Clerk,,2020-07-25,1.0
+106,David,2000-02-29,M,NaN,60000.0,2016-05-14,3.0
+107,Noor,1992-11-15,F,HR,80000.0,NaN,
+108,Ali,1990-05-12,M,Engineer,50000.0,2015-08-01,3.0
+109,John,1995-07-19,M,Technician,70000.0,2018-11-23,2.0
+110,Mariam,1987-01-01,F,Manager,90000.0,2010-12-05,5.0

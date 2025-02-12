@@ -1,0 +1,11 @@
+Sale_ID,Customer_Name,Product,Quantity,Price,Sale_Date,Region,Employee_ID
+201,Ahmed,Laptop,1.0,1200,2024-01-10 00:00:00,Cairo,101
+202,Zara,Phone,2.0,800,2024-01-12 00:00:00,Alex,102
+203,Omar,Tablet,1.0,500,2024-01-15 00:00:00,Giza,103
+204,Ahmed,Laptop,3.0,-100,2024-01-15 16:00:00,Cairo,104
+205,Layla,Headphones,1.0,200,2024-01-20 00:00:00,Alex,105
+206,Kareem,Phone,1.6666666666666667,800,2024-01-22 00:00:00,Alex,106
+207,Omar,Laptop,2.0,1200,2024-01-10 00:00:00,Giza,107
+208,Ahmed,Laptop,1.0,1200,2024-01-12 00:00:00,Cairo,101
+209,Ali,Tablet,1.0,500,2024-01-15 00:00:00,Giza,103
+210,Zara,Phone,3.0,800,2024-01-25 00:00:00,Alex,102
